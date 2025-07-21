@@ -65,9 +65,12 @@ Git
     
 ---
 
-📽️ Demo Video
+### 📽️ Demo Video  
+[![Watch the video](https://img.youtube.com/vi/iJrSgH-I9l8/0.jpg)](https://www.youtube.com/watch?v=iJrSgH-I9l8)
 
+---
 Enjoy exploring human anatomy in 3D with BioScope! 🧠🚀
+
 ---
 Enjoy exploring human anatomy in 3D with BioScope! 🧠🚀
 
