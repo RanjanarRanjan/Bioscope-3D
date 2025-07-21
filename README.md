@@ -62,6 +62,14 @@ Git
   ▶️ Start the Frontend
 
     npm run dev
-  
+    
+---
+
+### 📽️ Demo Video  
+[![Watch the video](https://img.youtube.com/vi/rCq1hmRu0gE/0.jpg)](https://www.youtube.com/watch?v=rCq1hmRu0gE)
+
+---
+Enjoy exploring human anatomy in 3D with BioScope! 🧠🚀
+
 
 
